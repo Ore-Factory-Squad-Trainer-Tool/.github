@@ -20,6 +20,7 @@ Built for both casual ore haulers and hardcore automation enthusiasts pushing le
 | Vehicle & Drill Boost       | Num6     | Unlimited fuel, speed, and drill power      | Collision ignore option                   |
 | Automation & Research Skip  | Num7     | Unlock all tech and speed research          | Force complete production chains          |
 | World & Event Control       | Num8     | Spawn ore deposits, control disasters       | Biome-specific resource generation        |
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/03d43c0f-002b-4fb0-8f23-2c36d106b741" />
 
 ### Compatibility & Requirements
 
